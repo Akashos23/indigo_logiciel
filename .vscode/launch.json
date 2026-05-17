@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-IndigoApplication<indigo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.indigo.indigo.IndigoApplication",
+            "projectName": "indigo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
